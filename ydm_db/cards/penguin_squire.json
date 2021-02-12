@@ -1,0 +1,21 @@
+{
+  "id": 2000000000,
+  "name": "Penguin Squire",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card can only be used for the Synchro summon of a \"Penguin\" Synchro monster. If this card is Summoned: You can Special Summon 1 level 3 \"Penguin\" Monster from your Deck. If this effect is activated you must Synchro Summon using this card and one other \"Penguin\" monster you control. You can only use the effect of \"Penguin Squire\" once per turn.",
+  "images": [
+    "https://icecube-eu-286.icedrive.io/thumbnail?p=1p8AivcEM55Yna1O5TzpMQLwFKDz5.qK9rD0uOGoi7ClDtChBc8yjQ5MNStzS9ijwFGodPmD8wD2twc0UBJko_K6OJ6HgLglYnv45wJ0oWp4iN3IHlDyCn8p0gt2ur_h&w=1024&h=1024&m=cropped"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1200,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 400,
+  "level": 3,
+  "is_tuner": true
+}
