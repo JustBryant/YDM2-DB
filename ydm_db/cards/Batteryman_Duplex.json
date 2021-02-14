@@ -1,0 +1,20 @@
+{
+  "id": 2000000043,
+  "name": "Batteryman Duplex",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is Summoned: You can pay 500 LP; add 1 \"Batteryman\" card, or \"Short Circuit\" from your Deck to your hand, except \"Batteryman Duplex\", also you cannot Special Summon monsters for the rest of this turn, except \"Batteryman\" monsters. (Quick Effect): You can banish this card from your hand or GY until your next Standby Phase, then target 1 \"Batteryman\" monster you control; it gains 1600 ATK until the end of this turn. You can only use each effect of \"Batteryman Duplex\" once per turn.",
+  "images": ["https://icecube-eu-287.icedrive.io/download?p=8miuCRm22b8.YWmK76piIugWKRu2Jnx8IuUBhr879RJ_3DCYK2HcLaGBdGkEvmSYRw1GfZy2RdN2GBjOypoIpAUdxrGqDqxVNg_LGkW.ld418wh9bMw46lO5eKmZ_ewy35REzyCIw_fk4f45Ma3oQMl.xdDAq0aV7APEXueAAFu4kU4ggd02hGackO41VLE7FmNnjyrlVFjhZkXVmTa0IA--"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1600,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}
