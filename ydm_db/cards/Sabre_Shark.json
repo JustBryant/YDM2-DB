@@ -1,0 +1,19 @@
+{
+  "id": 2000000008,
+  "name": "Sabre Shark",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 Level 5 Fish monsters\nYou can also Xyz Summon this card using a Rank 4 \"Shark\" monster you control. All WATER Monsters you control gain 300 ATK. You can detach 1 Xyz Material from this card; Special Summon 1 WATER Xyz monster from your GY. If a WATER Xyz monster you control inflicts battle damage to your opponent: You can attach 1 card they control to that card as an Xyz Material. You can only use each effect of \"Sabre Shark\" once per turn.",
+  "images": ["https://icecube-eu-287.icedrive.io/thumbnail?p=AvEjXFncRPYsEbHsPWQqozQs.1IpIaeS0qWkZeqItfeEj4LeUfUS8vvzpcJfn.aEItyQ5BHlHsjYJZIpCfUJAPK6OJ6HgLglYnv45wJ0oWp4iN3IHlDyCn8p0gt2ur_h&w=1024&h=1024&m=cropped"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2800,
+  "species": "Fish",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "rank": 5
+}

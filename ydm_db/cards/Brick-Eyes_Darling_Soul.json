@@ -1,0 +1,20 @@
+{
+  "id": 2000000053,
+  "name": "Brick-Eyes Darling Soul",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is banished: You can banish 1 card in your hand; Special Summon this card. You can only Summon \"Brick-Eyes Darling Soul\" once per turn this way.",
+  "images": ["https://icecube-eu-287.icedrive.io/thumbnail?p=sEJejW_NH.JE40zjEt6ZlsT.4gt2BDfJHiKx34hOgcATnapf2U_mYm2FHwqNA4olXRXetMBeSrD5LUSpnojaWPK6OJ6HgLglYnv45wJ0oWp4iN3IHlDyCn8p0gt2ur_h&w=1024&h=1024&m=cropped"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 900,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2000000055,
+  "name": "Panda",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is Normal Summoned: Special Summon 2 \"Panda\" from your hand, Deck or GY.",
+  "images": ["https://icecube-eu-287.icedrive.io/download?p=8miuCRm22b8.YWmK76piIugWKRu2Jnx8IuUBhr879RIFLejpjlly_S1xOjVS.gSyRw1GfZy2RdN2GBjOypoIpAUdxrGqDqxVNg_LGkW.ld4jLtxbKVdpFUs6Fh1pP.6kfdSckLmdi5xJWwXQW9.4pGietCPyTTE9slLdPFNYPk1lhYurV0cTQvERRS.plOo7"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

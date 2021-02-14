@@ -1,0 +1,20 @@
+{
+  "id": 2000000006,
+  "name": "Hypersonic Shark",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If you control a WATER Xyz monster: You can Special Summon this card from your hand. (Quick Effect): You can shuffle this card into your Deck; Special Summon 1 \"Shark\" monster from your Deck. You can only activate this effect of \"Hypersonic Shark\" once per turn. If this card is used for the Xyz Summon of a WATER monster, it can be treated as a Level 4 or 5 monster.",
+  "images": ["https://icecube-eu-287.icedrive.io/thumbnail?p=rdQMIBnVIoPoDYwMAmjPO0eLOn2qrCGzKz.qgR7uMK4qgpwsYVVXGXyJQ7bQWYMucAua8._wHxNW_2RDEBTEVfK6OJ6HgLglYnv45wJ0oWp4iN3IHlDyCn8p0gt2ur_h&w=1024&h=1024&m=cropped"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1500,
+  "species": "Fish",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

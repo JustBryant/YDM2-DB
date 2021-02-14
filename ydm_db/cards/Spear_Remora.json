@@ -1,0 +1,19 @@
+{
+  "id": 2000000009,
+  "name": "Spear Remora",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 Level 3 Fish monsters\nYou can detach 1 Xyz material from this card: all face-up monsters you control gain 300 ATK. (Quick Effect) During the Battle Phase: You can attach this card to a face-up \"Shark\" Xyz monster you control; negate the effects of all face-up monsters your opponent controls. Xyz monsters with this card as an Xyz material gain this effect:\n- This card can attack all monsters your opponent controls once each.",
+  "images": ["https://icecube-eu-287.icedrive.io/download?p=8miuCRm22b8.YWmK76piIugWKRu2Jnx8IuUBhr879RL0aSDrzZfp45YjRnyk8jR9Rw1GfZy2RdN2GBjOypoIpAUdxrGqDqxVNg_LGkW.ld5R5wmrHTMuq_OP4a6JhwezH0od_2XuRpsZDf2HOffMdY5ke4US1oneYASNelOvoJYQOb4KkJ4mhspG2zbC9DSkIO6phhZ6YCKzrvgDGWquWQ--"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1600,
+  "species": "Fish",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "rank": 3
+}

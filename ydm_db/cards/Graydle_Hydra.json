@@ -1,0 +1,20 @@
+{
+  "id": 2000000057,
+  "name": "Graydle Hydra",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nWhilst you control a monster that is owned by your opponent, this card is unaffected by other cards' effects. You choose the attack targets for your opponent’s attacks. If this card is destroyed and sent to the GY, target 1 WATER monster in your GY except this card; Special Summon it but its effects are negated. You can only use this effect of \"Graydle Hydra\" once per turn.",
+  "images": ["https://icecube-eu-287.icedrive.io/thumbnail?p=Ws1XboId_2VKxBJQ3ZNC0BDDZovyYlkCbCzuqqaLBQg3ZE5lDDuoV9vRIGh_74bSCseHQwsp_LlBo_1X2dUMuvK6OJ6HgLglYnv45wJ0oWp4iN3IHlDyCn8p0gt2ur_h&w=1024&h=1024&m=cropped"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2000,
+  "species": "Aqua",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "level": 8,
+  "is_tuner": false
+}

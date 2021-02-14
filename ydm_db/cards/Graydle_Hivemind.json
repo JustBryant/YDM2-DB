@@ -1,0 +1,21 @@
+{
+  "id": 2000000014,
+  "name": "Graydle Hivemind",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 \"Graydle\" monster\n(Quick Effect): You can equip this card to a monster your opponent controls, take control of that monster. You can only activate the effect of \"Graydle Hivemind\" once per turn.",
+  "images": ["https://icecube-eu-287.icedrive.io/thumbnail?p=hBcSYEj3b30EpPyJnLcl2I7NBB41N1OHpfKX07Jw88G2.7pIaX45m0endtozcKohETuv7oiWLp1J7kqW2VGZQvK6OJ6HgLglYnv45wJ0oWp4iN3IHlDyCn8p0gt2ur_h&w=1024&h=1024&m=cropped"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1000,
+  "species": "Aqua",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 1,
+  "link_arrows": [
+    "Bottom"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 2000000028,
+  "name": "Cynet Rebirth",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If 2 or more \"Code Talker\" Link monsters are sent to your GY by an opponent’s card: Special Summon those monsters but their effects are negated also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Cyberse monsters. If a Cyberse monster you control battles an opponent’s monster: You can banish this card and 1 Cyberse monster in your GY; return both battling monsters to the hand. You can only use 1 effect of \"Cynet Rebirth\" per turn and only once that turn",
+  "images": ["https://icecube-eu-287.icedrive.io/thumbnail?p=yGeOYsWIfG4nv1Kr8cPyVP4XxPqMGtpivgY4s8RPqFez9vtwC.3ACifMRQBKHb.zjGeYmYSIIjUzSJ5.oTqV4vK6OJ6HgLglYnv45wJ0oWp4iN3IHlDyCn8p0gt2ur_h&w=1024&h=1024&m=cropped"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

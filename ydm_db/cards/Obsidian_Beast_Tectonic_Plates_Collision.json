@@ -1,0 +1,11 @@
+{
+  "id": 2000000040,
+  "name": "Obsidian Beast - Tectonic Plates Collision",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target any number of Set monsters you control; flip them face-up and destroy cards your opponent controls equal to the number of Flip monsters flipped face-up by this effect. Flip effects are not activated at this time. You can only activate 1 \"Obsidian Beast - Tectonic Plates Collision\" per turn.",
+  "images": ["https://icecube-eu-287.icedrive.io/download?p=8miuCRm22b8.YWmK76piIugWKRu2Jnx8IuUBhr879RLdycSyy1JNBuxlkWC5ayVbRw1GfZy2RdN2GBjOypoIpAUdxrGqDqxVNg_LGkW.ld6s3rST53UajNMmlohB7lJROkbupez73iK_Vaw6RIP4DTNWI_x8OypjzF9rmwAYcqE8nbXWDk1zZm6HBygsyaxmcPsJo0BonoX4kYh45bW2R.PUjnMBHYO2QfkUBP5.pHCVJM9Zr6TawsKGiuEJ8w4b"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 2000000003,
+  "name": "Feeding Frenzy",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is activated: You can Special Summon 1 \"Shark\" monster from your hand or GY. If you Special Summon a \"Shark\" XYZ monster: You can Special Summon 1 \"Shark\" monster from your hand or GY. You can only activate each effect of \"Feeding Frenzy\" once per turn",
+  "images": ["https://icecube-eu-287.icedrive.io/download?p=8miuCRm22b8.YWmK76piIugWKRu2Jnx8IuUBhr879RJ8M1N5SrRdS4ovhMhxcKoQRw1GfZy2RdN2GBjOypoIpAUdxrGqDqxVNg_LGkW.ld4C8yGNgKrFCxyrDGJIPsBpNlykheGp_.CuVHzLi_248QR__MY09mVi91gIRjBWyLqclf8ZgPDilPSwEqGdRDb6gXMk8_N0Mh2LsezWMzVdCQ--"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

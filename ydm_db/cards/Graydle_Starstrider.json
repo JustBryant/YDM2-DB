@@ -1,0 +1,20 @@
+{
+  "id": 2000000013,
+  "name": "Graydle Starstrider",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you control a face-up \"Graydle\" card: You can Special Summon this card from your hand, then, you can destroy 1 card on the field, and if you do, add 1 Graydle card from your Deck or GY to your hand. You can only activate the effect of \"Graydle Starstrider\" once per turn.",
+  "images": ["https://icecube-eu-287.icedrive.io/download?p=8miuCRm22b8.YWmK76piIugWKRu2Jnx8IuUBhr879RLJZWwFH8QibVLKTPOV7e4.Rw1GfZy2RdN2GBjOypoIpAUdxrGqDqxVNg_LGkW.ld4F0nAJew8Q_lvOCXIiDhuFjUkdsn2_HtFG_kBCMnmp1tslOYi3b5tyXYhQvB28GTfwJb9z.BthFpI54Z26EJCJvS1itkuYbjGwaa68e6T01A--"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 300,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 2,
+  "is_tuner": true
+}

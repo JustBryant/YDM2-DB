@@ -1,0 +1,20 @@
+{
+  "id": 2000000037,
+  "name": "Obsidian Beast - Oxylus",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "FLIP: For the rest of the turn, whilst this card is face-up on the field, if a monster is Special Summoned whose combined ATK and DEF is less than this card’s original DEF, change that monster to face-down Defense Position. (Quick Effect): You can target 1 Set monster you control; flip it face-up, and if you do, Special Summon this card from your hand in face-down Defense Position. You can only use 1 effect of \"Obsidian Beast - Oxylus\" per turn and only once that turn.",
+  "images": ["https://icecube-eu-287.icedrive.io/thumbnail?p=FKklEdh.jXubWgm5vT1IPIMnYore6W5xDnNgc3NTQHRnDvRnieEpK2GFriq9qEmQnkVAS.dilhBTqLq9EFfSS_K6OJ6HgLglYnv45wJ0oWp4iN3IHlDyCn8p0gt2ur_h&w=1024&h=1024&m=cropped"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 100,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Flip",
+  "has_effect": true,
+  "def": 2600,
+  "level":3 ,
+  "is_tuner": false
+}
