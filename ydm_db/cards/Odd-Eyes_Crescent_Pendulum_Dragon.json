@@ -4,7 +4,8 @@
   "is_illegal": false,
   "is_custom": true,
   "text": "Created from fragments of the Moon itself, this stunning dragon materialises itself rarely. Those lucky enough to meet it, have said it takes the form of a crescent moon. It's cry is said to sound like the moon.",
-  "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Odd-Eyes_Crescent_Pendulum_Dragon.jpg"
+  "images": [
+    "https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Odd-Eyes_Crescent_Pendulum_Dragon.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
