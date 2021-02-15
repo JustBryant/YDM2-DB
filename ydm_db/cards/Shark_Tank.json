@@ -4,7 +4,7 @@
   "is_illegal": false,
   "is_custom": true,
   "text": "All face-up WATER monsters gain 500 ATK. You can reduce or increase the level of a face-up Fish type monster you control by 1; Special Summon 1 Level 4 or lower \"Shark\" monster from your Deck in face-up attack position. You cannot Summon monsters the turn you activate this effect except WATER monsters. You can only activate 1 \"Shark Tank\" per turn.",
-  "images": ["https://icecube-eu-287.icedrive.io/download?p=8miuCRm22b8.YWmK76piIugWKRu2Jnx8IuUBhr879RLyTnE75_H8II5qr49KPjWSRw1GfZy2RdN2GBjOypoIpAUdxrGqDqxVNg_LGkW.ld7u0hoo.KoN72YuxfM9FQpH0audAAMG87rQ6wO7c22nCABhOlEV4dCTdi9LWryaM6Ij23r44rA3By1TP9hRH7gYlSTPWa.k2sLChorhCfMOGw--"
+  "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Shark_Tank.png"
   ],
   "type": "Spell",
   "spell_type": "Field"
