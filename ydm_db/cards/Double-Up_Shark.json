@@ -4,7 +4,7 @@
   "is_illegal": false,
   "is_custom": true,
   "text": "If this card is Special Summoned by the effect of a \"Shark\" monster: you can add 1 card that specifically lists \"Shark\" in its text from your Deck to your hand. You can only use the effect of \"Double-Up Shark\" once per turn. If this card is used for the Xyz Summon of a WATER monster, it can be treated as a Level 4 or 5 monster.",
-  "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Double-Up_Shark.png"
+  "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Double-Up_Shark.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
