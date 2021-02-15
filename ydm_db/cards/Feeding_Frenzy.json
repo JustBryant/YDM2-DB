@@ -4,7 +4,8 @@
   "is_illegal": false,
   "is_custom": true,
   "text": "If this card is activated: You can Special Summon 1 \"Shark\" monster from your hand or GY. If you Special Summon a \"Shark\" XYZ monster: You can Special Summon 1 \"Shark\" monster from your hand or GY. You can only activate each effect of \"Feeding Frenzy\" once per turn",
-  "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Feeding_Frenzy.jpg"
+  "images": [
+    "https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Feeding_Frenzy.jpg"
   ],
   "type": "Spell",
   "spell_type": "Continuous"
