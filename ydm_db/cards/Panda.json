@@ -4,7 +4,8 @@
   "is_illegal": false,
   "is_custom": true,
   "text": "If this card is Normal Summoned: Special Summon 2 \"Panda\" from your hand, Deck or GY.",
-  "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Panda.jpg"
+  "images": [
+    "https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Panda.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
