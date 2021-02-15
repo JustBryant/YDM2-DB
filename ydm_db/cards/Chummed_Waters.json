@@ -3,7 +3,7 @@
   "name": "Chummed Waters",
   "is_illegal": false,
   "is_custom": true,
-  "text": "You can discard 1 card from your hand; send 1 Fish type monster from your Deck to the GY, and if you do, add 1 \"Shark\" monster from your Deck to your hand. You can only activate 1 \"Chummed Waters\" per turn",
+  "text": "You can discard 1 card from your hand; send 1 Fish type monster from your Deck to the GY, and if you do, add 1 \"Shark\" monster from your Deck to your hand. You can only activate 1 \"Chummed Waters\" per turn.",
   "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Chummed_Waters.jpg"
   ],
   "type": "Spell",
