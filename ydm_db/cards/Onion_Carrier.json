@@ -4,7 +4,7 @@
   "is_illegal": false,
   "is_custom": true,
   "text": "2 monsters with the same Type or Attribute\nCannot be used as Link Material the turn it is Link Summoned. You can target 1 face-up monster you control; equip 1 Union monster to it from your hand or Deck with its same original Type or Attribute. The equipped monster gains 1000 ATK. If you equipped it from the Deck, you cannot Special Summon monsters with that Equip Card's name for the rest of this turn. You can only use this effect of \"Onion Carrier\" once per turn.",
-  "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Onion_Carrier.png"
+  "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Onion_Carrier.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
