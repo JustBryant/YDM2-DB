@@ -4,7 +4,7 @@
   "is_illegal": false,
   "is_custom": true,
   "text": "2 Level 3 Fish monsters\nYou can detach 1 Xyz Material from this card; Draw 1 card then, this card gains 500 ATK. If this card was Xyz Summoned using two \"Shark\" monsters as material you can detach 2 Xyz materials from this card; Draw 2 cards then, this card gains 1000 ATK. You can only use 1 effect of \"Riptail Shark\" per turn and only once that turn.",
-  "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Riptail_Shark.png"
+  "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Riptail_Shark.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
