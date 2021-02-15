@@ -3,8 +3,8 @@
   "name": "D3Smond the Frog",
   "is_illegal": false,
   "is_custom": true,
-  "text": "You can Tribute 1 monster; Special Summon 1 “Frog” monster from your Deck, except “D3Smond the Frog”. You can only use this effect of “D3Smond the Frog” once per turn. “Frog” monsters you control cannot be destroyed by battle.",
-  "images": ["https://icecube-eu-287.icedrive.io/download?p=8miuCRm22b8.YWmK76piIugWKRu2Jnx8IuUBhr879RIySI5SUYYCGnwlTWUQp02CRw1GfZy2RdN2GBjOypoIpAUdxrGqDqxVNg_LGkW.ld5AxOD1lSd4IZnvQqeSF3iGwM6az4Z6ry5VXr7IMs57ZZv3WS7FqI9NkD5uURDgmq6QZKy2jcHvxE9Vipsrxu.gWMPGE.vikQwa8tO7G1VtTQ--"
+  "text": "You can Tribute 1 monster; Special Summon 1 \"Frog\" monster from your Deck, except \"D3Smond the Frog\". You can only use this effect of \"D3Smond the Frog\" once per turn. \"Frog\" monsters you control cannot be destroyed by battle.",
+  "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/D3Smond_The_Frog.png"
   ],
   "type": "Monster",
   "attribute": "WATER",
