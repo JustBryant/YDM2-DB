@@ -3,7 +3,7 @@
   "name": "Inferno Chain",
   "is_illegal": false,
   "is_custom": true,
-  "text": "You can detach 1 Xyz material from this card; send 1 card from your Deck to your GY or draw 1 card. You can only activate this effect of “Inferno Chain” once per turn.",
+  "text": "You can detach 1 Xyz material from this card; send 1 card from your Deck to your GY or draw 1 card. You can only activate this effect of \"Inferno Chain\" once per turn.",
   "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Inferno_Chain.jpg"
   ],
   "type": "Monster",
