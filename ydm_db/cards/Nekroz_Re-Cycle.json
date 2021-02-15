@@ -4,7 +4,7 @@
   "is_illegal": false,
   "is_custom": true,
   "text": "Target 2 Ritual monsters in the GY; shuffle them into the Deck and if you do, destroy 1 card on the field.",
-  "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Nekroz_Re-Cycle.png"
+  "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Nekroz_Re-Cycle.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"
