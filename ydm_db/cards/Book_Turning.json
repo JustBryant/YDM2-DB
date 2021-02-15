@@ -4,7 +4,7 @@
   "is_illegal": false,
   "is_custom": true,
   "text": "Change 1 face-down monster you control face-up; draw 1 card.",
-  "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Book_Turning.png"
+  "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Book_Turning.jpg"
   ],
   "type": "Spell",
   "spell_type": "Normal"
