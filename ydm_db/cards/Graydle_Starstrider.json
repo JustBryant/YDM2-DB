@@ -4,7 +4,7 @@
   "is_illegal": false,
   "is_custom": true,
   "text": "While you control a face-up \"Graydle\" card: You can Special Summon this card from your hand, then, you can destroy 1 card on the field, and if you do, add 1 Graydle card from your Deck or GY to your hand. You can only activate the effect of \"Graydle Starstrider\" once per turn.",
-  "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Graydle_Starstrider.png"
+  "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Graydle_Starstrider.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
