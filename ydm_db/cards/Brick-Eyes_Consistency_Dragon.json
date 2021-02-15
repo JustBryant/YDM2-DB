@@ -4,7 +4,7 @@
   "is_illegal": false,
   "is_custom": true,
   "text": "2+ monsters, including a Tuner\nIf this card is Synchro Summoned: Skip your opponent's next Draw Phase. (Quick Effect): You can banish 1 card in your hand and target 1 card on the field; banish that target. You can only use this effect of \"Brick-Eyes Consistency Dragon\" once per turn. This card cannot be destroyed by battle.",
-  "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Brick-Eyes_Consistency_Dragon.png"
+  "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Brick-Eyes_Consistency_Dragon.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
