@@ -4,7 +4,7 @@
   "is_illegal": false,
   "is_custom": true,
   "text": "2 Level 3 Fish monsters\nYou can detach 1 Xyz material from this card: all face-up monsters you control gain 300 ATK. (Quick Effect) During the Battle Phase: You can attach this card to a face-up \"Shark\" Xyz monster you control; negate the effects of all face-up monsters your opponent controls. Xyz monsters with this card as an Xyz material gain this effect:\n- This card can attack all monsters your opponent controls once each.",
-  "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Spear_Remora.png"
+  "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Spear_Remora.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
