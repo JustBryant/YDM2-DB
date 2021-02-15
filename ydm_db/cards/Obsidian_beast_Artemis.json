@@ -4,7 +4,7 @@
   "is_illegal": false,
   "is_custom": true,
   "text": "FLIP: Target 1 Flip monster in your GY; add that target to your hand or Special Summon it in face-down Defense Position. (Quick Effect): You can target 1 Set monster you control; flip it face-up, and if you do, Special Summon this card from your hand in face-down Defense Position. You can only use 1 effect of \"Obsidian Beast - Artemis\" per turn and only once that turn.",
-  "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Obsidian_Beast%20-%20Artemis.png"
+  "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Obsidian_Beast-Artemis.jpg"
   ],
   "type": "Monster",
   "attribute": "FIRE",
