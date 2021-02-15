@@ -4,7 +4,8 @@
   "is_illegal": false,
   "is_custom": true,
   "text": "If this card is Special Summoned: You can Special Summon 1 WATER monster from your Deck by banishing WATER monsters from your hand or field whose total levels equal or exceed twice that monsters level. You cannot Summon monsters the turn you activate this effect except WATER monsters. If this card is used for the Xyz Summon of a WATER monster, it can be treated as a Level 3, or 5 monster.",
-  "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Double_barrel_Shark.jpg"
+  "images": [
+    "https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Double_barrel_Shark.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
