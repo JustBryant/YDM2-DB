@@ -4,7 +4,7 @@
   "is_illegal": false,
   "is_custom": true,
   "text": "2 Level 4 Fish monsters\n(Quick Effect): If all monsters you control are WATER Xyz monsters, you can detach any number of Xyz materials, then apply that effect equal to the number detached;\n1 - Special Summon 1 WATER monster in your GY in face-up defense position.\n2 - Target 1 monster your opponent controls; shuffle that target into the Deck.\nYou can only activate the effect of \"Twinstream Shark\" once per turn.",
-  "images": ["https://icecube-eu-287.icedrive.io/download?p=8miuCRm22b8.YWmK76piIugWKRu2Jnx8IuUBhr879RImrOmdFPM2IileexY.u6fNRw1GfZy2RdN2GBjOypoIpAUdxrGqDqxVNg_LGkW.ld4Ne_Yl71JL634o6eMByTwUGgZqPK5zv.iBDDkpZJ7SRWnyjzv.cR3u0L0hIvfz.tQAGNmdrIoP.lPRn0cUaltkQs.mMQw1FVidHTfoaWMAlg--"
+  "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Twinstream_Shark.png"
   ],
   "type": "Monster",
   "attribute": "WATER",
