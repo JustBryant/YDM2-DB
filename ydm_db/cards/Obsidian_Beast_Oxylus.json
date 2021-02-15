@@ -3,7 +3,7 @@
   "name": "Obsidian Beast - Oxylus",
   "is_illegal": false,
   "is_custom": true,
-  "text": "FLIP: For the rest of the turn, whilst this card is face-up on the field, if a monster is Special Summoned whose combined ATK and DEF is less than this card’s original DEF, change that monster to face-down Defense Position. (Quick Effect): You can target 1 Set monster you control; flip it face-up, and if you do, Special Summon this card from your hand in face-down Defense Position. You can only use 1 effect of \"Obsidian Beast - Oxylus\" per turn and only once that turn.",
+  "text": "FLIP: For the rest of the turn, whilst this card is face-up on the field, if a monster is Special Summoned whose combined ATK and DEF is less than this card's original DEF, change that monster to face-down Defense Position. (Quick Effect): You can target 1 Set monster you control; flip it face-up, and if you do, Special Summon this card from your hand in face-down Defense Position. You can only use 1 effect of \"Obsidian Beast - Oxylus\" per turn and only once that turn.",
   "images": ["https://github.com/JustBryant/KingdomsImages/blob/main/KP1/Obsidian_Beast-Oxylus.jpg"
   ],
   "type": "Monster",
