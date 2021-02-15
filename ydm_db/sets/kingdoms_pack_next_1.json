@@ -1,0 +1,15 @@
+{
+  "name": "Kingdoms Pack - Next",
+  "code": "KPN1",
+  "type": "Deck Build Pack",
+  "date": "15-02-2021",
+  "image": "https://ygoprodeck.com/pics_sets/FUEN.jpg",
+  "pull_type": "distribution",
+  "distribution": "deck_build_pack",
+  "cards": [
+    {
+      "id": ,
+      "code": "KPN1-0",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
